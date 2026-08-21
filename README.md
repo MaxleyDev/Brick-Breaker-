@@ -44,3 +44,5 @@ Merci à vous et bon développement ! 🚀
 
 **MaxleyDev**
 💻 Développeur Web Full-Stack & Mobile App
+
+![image alt](https://github.com/MaxleyDev/Brick-Breaker-/blob/8b5c65ac8ba4a09e17df2ecca872c5885083fb0c/Casse-Briques.png)
